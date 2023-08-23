@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <img align = "center" src = "https://i.pinimg.com/originals/c2/9d/10/c29d1039a936cbfaddb2b86972237c64.gif">
-- 🔭 I’m currently working on **web apps**
 
 - 🌱 I’m currently learning **JavaFX**
+- 🔭 I'   m currently interested in **Web Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/philip athanasopoulos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip athanasopoulos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/philip-athanasopoulos-a3709b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip athanasopoulos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
