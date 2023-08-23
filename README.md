@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-- 🔭 I’m currently working on **webapps**
+<img align = "center" src = "https://31.media.tumblr.com/cd915973d43e0d5fa6b7ebe7058e71dc/tumblr_mwwb95uBhD1qa6q9uo1_500.gif" >
 
 - 🌱 I’m currently learning **JavaFX**
+- 🔭 I' m currently working on **Web Apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
