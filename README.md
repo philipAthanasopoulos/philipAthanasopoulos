@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-- 🔭 I’m currently working on **web** **apps**
+- 🔭 I’m currently working on **webapps**
 
 - 🌱 I’m currently learning **JavaFX**
 
