@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<img align = "center" src = "[https://i.pinimg.com/originals/c2/9d/10/c29d1039a936cbfaddb2b86972237c64.gif](https://gr.pinterest.com/pin/628533691767882151/)">
+<img align = "center" src = "https://i.pinimg.com/564x/38/5c/cc/385ccc859a54d7d0fc61f4bd4d5861f9.jpg">
 
 - 🌱 I’m currently learning **JavaFX**
 - 🔭 I'   m currently interested in **Web Technologies**
