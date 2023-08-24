@@ -2,7 +2,7 @@
 <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto">
 
 - 🌱 I’m currently learning **JavaFX**
-- 🔭 I'   m currently interested in **Web Technologies**
+- 🔭 I'm currently interested in **Web Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
