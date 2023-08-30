@@ -21,6 +21,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <h2 align = "center">Languages and tools I use:</h2>
-    <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,figma,js,html,css&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,figma,js,html,css" />
   </a>
 </p>
