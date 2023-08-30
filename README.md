@@ -3,14 +3,14 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/philip-athanasopoulos-a3709b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip athanasopoulos" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <h1>Languages and tools I use</h1>
+      <h2>Languages and tools I use</h2>
     <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,figma,js,html,css&perline=13" />
   </a>
 </p>
