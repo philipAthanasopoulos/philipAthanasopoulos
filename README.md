@@ -10,7 +10,7 @@
 
  💬 Ask me about **Java, ... or anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Pandas 🐼 can swim 🏊**
  
  </div>
 <h2 align="center">Connect with me:</h2>
