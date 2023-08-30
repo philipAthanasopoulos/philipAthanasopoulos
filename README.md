@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+      <h1>Languages and tools I use</h1>
     <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,figma,js,html,css&perline=13" />
   </a>
 </p>
