@@ -10,7 +10,7 @@
 
  💬 Ask me about **Java, ... or anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
- ⚡ Fun fact **Pandas 🐼 can swim 🏊**
+ ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
  </div>
 <h2 align="center">Connect with me:</h2>
