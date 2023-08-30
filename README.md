@@ -2,10 +2,8 @@
     <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto">
 </div>
 
-  🔨I'm currently working on a <b>Web Scraper</b> <br>
-  📖I'm currently learning <b>MySQL</b>
-
-
+  🪴 I'm currently working on a `<b>`Web Scraper🕸️`</b>` `<br>`
+  📖 I'm currently learning `<b>`MySQL🐬`</b>`
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -18,4 +16,3 @@
     <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,figma,js,html,css&perline=13" />
   </a>
 </p>
-
