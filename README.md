@@ -1,7 +1,7 @@
 <div>
     <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto">
 </div>
-<p style = "font-size:20px">
+<p style = "font-size:40px">
 
 
   🪴 I'm currently working on a <b>Web Scraper🕸️</b> <br>
