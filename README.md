@@ -13,14 +13,15 @@
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
  </div>
-<h2 align="center">Connect with me:</h2>
+<!-- <h2 align="center">Connect with me:</h2>
 <div align="center"> 
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/philip-athanasopoulos-a3709b243/" target="frameName">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Philip Athanasopoulos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17625629)
 </div>
 
 <p align="center">
