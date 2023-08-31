@@ -18,8 +18,8 @@
   <a href="https://linkedin.com/in/philip athanasopoulos" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip athanasopoulos" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/philip-athanasopoulos-a3709b243/" target="frameName">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://stackoverflow.com/users/17625629" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17625629" height="30" width="40" />
   </a>
  
 
