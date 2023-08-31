@@ -15,7 +15,7 @@
  </div>
 <h2 align="center">Connect with me:</h2>
 <div align="center"> 
-  <a href="https://linkedin.com/in/philip athanasopoulos" target="blank">
+  <a href="https://linkedin.com/in/Philip Athanasopoulos" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip athanasopoulos" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/17625629" target="blank">
