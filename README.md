@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on **a Web Scraper 🕸️**
 
- 💬 Ask me about ** anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
+ 💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
