@@ -8,7 +8,7 @@
 
  💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
- 📘 I'm currently learing Angular 🔴A🔴
+ 📘 I'm currently learing Angular🅰️
 
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
