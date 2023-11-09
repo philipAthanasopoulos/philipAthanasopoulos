@@ -30,7 +30,7 @@
   <a href="https://skillicons.dev">
       <h2 align = "center">Languages and tools I use:</h2>
       <div align = "center">
-        <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,js,html,css,bots" />
+        <img src="https://skillicons.dev/icons?i=java,idea,maven,git,c,vscode,linux,python,firebase,js,html,css,bots,sql" />
       </div>
   </a>
 </p>
