@@ -1,5 +1,6 @@
 <div>
-    <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto">
+<!--     <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto"> -->
+    <img align = "center" src = "https://miro.medium.com/max/552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width = "max" height = "auto">
 </div>
 <div align="center">
  <br>
