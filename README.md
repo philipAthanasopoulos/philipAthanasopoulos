@@ -11,8 +11,6 @@
 
  💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
- 📚 I'm currently learning Angular🅰️
-
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
  </div>
