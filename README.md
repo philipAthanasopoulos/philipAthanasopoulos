@@ -9,6 +9,8 @@
 
  🔭 I’m currently working on **a Web Scraper 🕸️**
 
+ 📚 I'm learning React⚛️
+
  💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
