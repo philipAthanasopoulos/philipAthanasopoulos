@@ -9,7 +9,7 @@
 
  🔭 I’m currently working on **a Web Scraper 🕸️**
 
- 📚 I'm currently learning React⚛️
+ 📚 I'm currently learning React⚛️ and Typescript🟦
 
  💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
