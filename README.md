@@ -22,7 +22,7 @@
       </div>
   </a>
 </p>
-<h1>My Projects</h1>
 <div align = "center">
+<h1>My Projects</h1>
     <img align = "center" src = "https://miro.medium.com/max/552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width = "max" height = "auto">
 </div>
