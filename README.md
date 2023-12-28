@@ -4,7 +4,7 @@
 <div align = "center">
     <img align = "center" src = "https://i.pinimg.com/originals/d0/00/b3/d000b3641dcec6b05f48f3c6b76ff6ad.gif" width = "max" height = "auto">
 </div>
-<kbd>w</kbd>
+<kbd>button</kbd>
 <div align="center">
  <br>
 
