@@ -15,12 +15,7 @@
 
  ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
  
- </div>
-<h2 align="center">Connect with me:</h2>
-<div align="center"> 
-  
- 
-
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
       <h2 align = "center">Languages and tools I use:</h2>
