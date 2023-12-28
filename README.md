@@ -13,8 +13,6 @@
 
  💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
 
- ⚡ Fun fact **Pandas 🐼 have six fingers 🐾**
- 
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
