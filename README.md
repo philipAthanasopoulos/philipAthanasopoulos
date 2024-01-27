@@ -11,7 +11,7 @@
 
  📚 I'm currently learning React⚛️ and Typescript🟦
 
- ❗I can't EXIT Vim please help me
+ ❗I can't **EXIT Vim** please help me
 
 </div>
 <p align="center">
