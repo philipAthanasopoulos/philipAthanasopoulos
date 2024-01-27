@@ -11,7 +11,7 @@
 
  📚 I'm currently learning React⚛️ and Typescript🟦
 
- 💬 Ask me about **anything [here](https://github.com/philipAthanasopoulos/philipAthanasopoulos/issues)**
+ ❗I can't EXIT Vim please help me
 
 </div>
 <p align="center">
