@@ -6,7 +6,7 @@
 </div>
 <div align="center">
  <br>
- ❗I can't *exit Vim* please help me
+ ❗I can't exit Vim please help me
 
 </div>
 <p align="center">
