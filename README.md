@@ -6,11 +6,6 @@
 </div>
 <div align="center">
  <br>
-
- 🔭 I’m currently working on **a Drive for students app ☁️**
-
- 📚 I'm currently learning React⚛️ and Typescript🟦
-
  ❗I can't **EXIT Vim** please help me
 
 </div>
