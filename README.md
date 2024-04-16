@@ -13,7 +13,7 @@
   <a href="https://skillicons.dev">
       <h2 align = "center">Languages and tools I use</h2>
       <div align = "center">
-        <img src="https://skillicons.dev/icons?i=git,c,vscode,linux,idea,maven,java,python,firebase,js,html,css,discord,mysql" />
+        <img src="https://skillicons.dev/icons?i=git,c,vscode,linux,idea,maven,java,python,firebase,js,html,css" />
       </div>
   </a>
 </p>
