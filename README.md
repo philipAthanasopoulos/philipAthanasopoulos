@@ -7,6 +7,7 @@
 <div align="center">
  <br>
  ❗I can't exit Vim please help me
+  Currently learning Spring Boot🍃 and Docker🐳
 
 </div>
 <p align="center">
