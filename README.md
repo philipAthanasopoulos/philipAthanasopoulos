@@ -8,7 +8,6 @@
  <br>
  ❗I can't exit Vim please help me  
     <br>
-  Currently learning Spring Boot🍃 and Docker🐳
 
 </div>
 <p align="center">
