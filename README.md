@@ -7,7 +7,9 @@
 <div align="center">
  <br>
  ❗I can't exit Vim please help me  
-    <br>
+ <br>
+ Eclipse users are NOT welcome 
+ <br>
 
 </div>
 <p align="center">
