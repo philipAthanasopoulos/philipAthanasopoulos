@@ -6,8 +6,6 @@
 </div>
 <div align="center">
  <br>
- ❗I can't exit Vim please help me  
- <br>
  Eclipse users are NOT welcome 
  <br>
 
