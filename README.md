@@ -8,7 +8,10 @@
  <br>
  Eclipse users are NOT welcome 
  <br>
-
+<audio controls autoplay>
+  <source src="audio.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
