@@ -41,7 +41,7 @@ philip.workDay();
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-      <h2 align = "center">Languages and tools I use</h2>
+      <h2 align = "center">What I usually use</h2>
       <div align = "center">
         <img src="https://skillicons.dev/icons?i=idea,react,java,spring,python,docker,js,html,css,bootstrap,ruby,rails" />
       </div>
