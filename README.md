@@ -14,6 +14,6 @@
   </a>
 </p>
 <div align = "center">
-<h1>My Projects</h1>
-    <img align = "center" src = "https://miro.medium.com/max/552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width = "max" height = "auto">
+<h1>Check out my work</h1>
+    <img align = "center" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhmaDQ5c2YyeGxraWpicXo4ejNrMGdpamRkbjEydWY1MjRrenNzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif" width = "max" height = "auto">
 </div>
