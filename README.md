@@ -15,5 +15,5 @@
 </p>
 <div align = "center">
 <h1>Check out my work</h1>
-    <img align = "center" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhmaDQ5c2YyeGxraWpicXo4ejNrMGdpamRkbjEydWY1MjRrenNzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzQS5HXcEWM7du/giphy.gif" width = "max" height = "auto">
+    <img align = "center" src = "https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width = "max" height = "auto">
 </div>
